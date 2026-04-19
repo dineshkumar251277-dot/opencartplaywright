@@ -1,0 +1,3 @@
+testName,email,password,expected
+Valid login,Carmella.Marvin@yahoo.com,t7erkelgcL5GM9G,success
+Invalid login,abcxyz@xyz.com,abcxyx,failure
